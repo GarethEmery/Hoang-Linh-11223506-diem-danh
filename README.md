@@ -1,4 +1,4 @@
-# testing <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,6 +28,6 @@
 <body>
     <h1>Bài tập điểm danh</h1>
     <p>Hello tiny world</p>
-    <img src="C:\Users\Admin\Desktop\IMG_2499.JPG" alt="Ảnh đẹp zai">
+    <img src="https://cellphones.com.vn/sforum/wp-content/uploads/2024/02/avatar-anh-meo-cute-3.jpg" alt="Ảnh đẹp zai">
 </body>
 </html>
